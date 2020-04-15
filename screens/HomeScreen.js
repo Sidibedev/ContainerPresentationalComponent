@@ -5,8 +5,8 @@ import CoronaWidgetContainer from "./CoronaWidgetContainer";
 export default function HomeScreen () {
 return(
     <View>
-      <CustomHeader />
-      <CoronaWidgetContainer />
+      <CustomHeader/>
+      <CoronaWidgetContainer/>
     </View>
    )
   
